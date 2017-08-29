@@ -1,0 +1,59 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+    background-color: rgba(178,178,178,1.00);
+    background-image: url(../images/back.jpg);
+}
+#container {
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 100px;
+    background-color: #ffffff;
+    height: 500px;
+}
+#headline {
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-size: 36px
+}
+#footer {
+    display: block;
+    height: 60px;
+    background-color: rgba(11,11,11,1.00);
+    margin-top:150px
+}
+p.footertext {
+    color: rgba(255,255,255,1.00);
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    text-align: center;
+    margin-right: 0px;
+    margin-top: 6px;
+    font-size: 12px
+}
+#loginpagetext {
+    text-align: center;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-size: 18px;
+}
+div.content {
+    height: 320px;
+    background-color: #ffffff;
+}
+div.form {
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-size: 18px;
+    width: 400px;
+    margin: auto;
+    background-color: #ffffff;
+}
+div.options {
+    margin-top: 60px;
+}
+td.field {
+    text-align: right;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-size: 18px;
+}
+#guest {
+    margin-left: 310px;
+    width:250px;
+}

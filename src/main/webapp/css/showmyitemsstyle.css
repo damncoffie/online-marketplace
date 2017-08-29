@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+    background-color: rgba(178,178,178,1.00);
+    background-image: url(../images/back.jpg);
+}
+div.container {
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 100px;
+    background-color: #FFFFFF;
+    height:auto;
+}
+div.resulttable {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1100px;
+}
+#footer {
+    margin-top:200px;
+    height: 60px;
+    background-color: rgba(11,11,11,1.00);
+    display: block;
+}
+p.footertext {
+    color: rgba(255,255,255,1.00);
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    text-align: center;
+    font-size: 12px;
+}
+#greetings {
+    padding-top:20px;
+    padding-right: 100px;
+    text-align:right;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+}
+#addnew {
+    float: left;
+    margin-left: 100px;
+    margin-bottom: 20px;
+}
+#back {
+    float: left;
+    margin-left: 100px;
+    margin-bottom: 20px;
+}

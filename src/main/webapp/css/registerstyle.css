@@ -1,0 +1,55 @@
+@charset "utf-8";
+body {
+    background-color: rgba(178,178,178,1.00);
+    background-image: url(../images/back.jpg);
+}
+#container {
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 100px;
+    background-color: #ffffff;
+    height: 550px;
+}
+#headline {
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-size: 36px
+}
+td.registerpagetext {
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-size: 16px;
+}
+p.registerpagetext {
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-size: 20px;
+    text-align: center
+}
+#footer {
+    display: block;
+    height: 60px;
+    background-color: rgba(11,11,11,1.00);
+    margin-top: 150px
+}
+p.footertext {
+    color: rgba(255,255,255,1.00);
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    text-align: center;
+    margin-right: 0px;
+    margin-top: 6px;
+    font-size: 12px
+}
+div.content {
+    height: 350px;
+    background-color: #ffffff;
+}
+div.form {
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-size: 18px;
+    width: 400px;
+    margin: auto;
+    background-color: #ffffff;
+}
+.tip {
+    color:red;
+    font:italic;
+    font-size:13px;
+}

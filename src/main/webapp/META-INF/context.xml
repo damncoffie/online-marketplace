@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/mavenproject1">
+    <Resource
+        auth="Container"
+        driverClassName="oracle.jdbc.OracleDriver"
+        maxIdle="10"
+        maxTotal="20"
+        maxWaitMillis="-1"
+        name="jdbc/marketDB"
+        password="000"
+        type="javax.sql.DataSource"
+        url="jdbc:oracle:thin:@localhost:1521:xe"
+        username="market_user"/>
+</Context>
